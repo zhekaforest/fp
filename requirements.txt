@@ -1,4 +1,4 @@
 seaborn
 people_also_ask
 bs4
-sklearn.linear_model
+sklearn
