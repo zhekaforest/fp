@@ -1,7 +1,4 @@
 seaborn
 people_also_ask
-re
-sqlite3
 bs4
-requests
 sklearn.linear_model
